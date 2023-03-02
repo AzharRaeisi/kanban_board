@@ -1,0 +1,23 @@
+{
+    "ideas": "Ideas",
+    "inProgress": "In Progress",
+    "done": "Done",
+    "archives": "Archives",
+    "CreatedOn": "Created On",
+    "completedOn": "Completed On",
+    "participants": "Participants",
+    "addTask": "Add Task",
+    "add": "Add",
+    "taskTitle": "Task Title",
+    "pleaseEnterTodo": "Please enter your todo.",
+    "additionalNotes": "Additional notes",
+    "addParticipants": "Add Participants",
+    "somethingWentWrong": "Something went wrong.",
+    "loading": "Loading",
+    "signInAs": "Sign in as",
+    "signinAsGoogle": "Sign in with Google",
+    "guest": "Guest",
+    "profile": "Profile",
+    "makeArchive": "Make Archive",
+    "or": "or"
+}

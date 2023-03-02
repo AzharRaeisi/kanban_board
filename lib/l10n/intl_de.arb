@@ -1,0 +1,23 @@
+{
+    "ideas": "Ideen",
+    "inProgress": "Im Gange",
+    "done": "Erledigt",
+    "archives": "Archiv",
+    "CreatedOn": "Erstellt am",
+    "completedOn": "Vervollständigt am",
+    "participants": "Teilnehmer",
+    "addTask": "Aufgabe hinzufügen",
+    "add": "Hinzufügen",
+    "taskTitle": "Aufgabentitel",
+    "pleaseEnterTodo": "Bitte geben Sie Ihre Aufgabe ein.",
+    "additionalNotes": "Zusätzliche Bemerkungen",
+    "addParticipants": "Teilnehmer hinzufügen",
+    "somethingWentWrong": "Something went wrong.",
+    "loading": "Wird geladen",
+    "signInAs": "Anmelden als",
+    "signinAsGoogle": "Anmeldung mit Google",
+    "guest": "Gast",
+    "profile": "Profil",
+    "makeArchive": "Archiv machen",
+    "or": "oder"
+}

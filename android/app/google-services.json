@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "854174184978",
+    "project_id": "kanban-board-a3285",
+    "storage_bucket": "kanban-board-a3285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854174184978:android:fa2775b2d751afa5994acb",
+        "android_client_info": {
+          "package_name": "com.example.kanban_board"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854174184978-su1oalrob3eunqba2l40u8603moi2ulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfmaMQg_07KGeYmfmKIT8gQYDuw3P_UyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854174184978-su1oalrob3eunqba2l40u8603moi2ulb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "854174184978-5bh5799afdrteddf9pkd2u5q64vnv1uc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kanbanBoard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
